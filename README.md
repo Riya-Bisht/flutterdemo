@@ -1,4 +1,4 @@
-# astrodemo
+# flutterdemo
 
 A new Flutter project.
 
